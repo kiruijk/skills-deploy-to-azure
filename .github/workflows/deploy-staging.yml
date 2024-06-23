@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: -azure-ttt
-  AZURE_WEBAPP_NAME: -ttt-app
+  DOCKER_IMAGE_NAME: kiruijk-azure-ttt
+  AZURE_WEBAPP_NAME: kiruijk-ttt-app
   ###############################################
 
 jobs:
